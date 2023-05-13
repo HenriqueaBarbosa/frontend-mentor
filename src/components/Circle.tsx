@@ -7,8 +7,8 @@ export default function Circle(props: Props) {
     return (
       <div className={`
         flex justify-center items-center
-        bg-[#1F2630] text-[#818993]
-        w-10 h-10 rounded-full
+        bg-[#2D3540] text-[#7B848C]
+        w-12 h-12 rounded-full
       `}>
         {props.content}
         {props.children}

@@ -2,14 +2,17 @@ interface Props {
     content: string;
 }
 
-export default function Circle(props: Props) {
+export default function Button(props: Props) {
     return (
-      <div className={`
+      <button className={`
         flex justify-center items-center
         bg-[#F26716] text-[#FFF]
-        w-44 h-10 rounded-3xl
+        font-bold tracking-widest
+        w-full h-10 rounded-3xl
       `}>
         {props.content}
-      </div>
+      </button>
     )
   }
+
+  
