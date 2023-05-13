@@ -1,4 +1,4 @@
-import Card from "@/components/Card";
+import Card from "@/components/Elements/Card";
 
 export default function PageCard() {
     return (

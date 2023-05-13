@@ -1,4 +1,4 @@
-import Circle from "@/components/Circle";
+import Circle from "@/components/Elements/Circle";
 import Star from "@/images/Star";
 
 
