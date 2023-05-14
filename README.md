@@ -26,12 +26,18 @@ Os usuários devem ser capazes de:
 - Veja o estado do cartão "Obrigado" após enviar uma avaliação
 
 ### Screenshots
+---
 
 ![Efeitos](./screenshots/active-states.jpg)
+---
 ![Desktop Rating](./screenshots/desktop-rating.jpg)
-![Desktop Thanks](./screenshots/desktop-thank-you.jpg)
-![Mobile](./screenshots/mobile-rating.jpg)
-![](./screenshots/mobile-thank-you.jpg)
+---
+![Desktop Thanks](./screenshots/desktop-thank-you.jpg) 
+---
+![Mobile Rating](./screenshots/mobile-rating.jpg)
+---
+![Mobile Thanks](./screenshots/mobile-thank-you.jpg)
+---  
 
 ### Links
 
