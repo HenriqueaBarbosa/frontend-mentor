@@ -7,7 +7,7 @@ export default function Card(props: Props) {
     <div
       className={`
         flex flex-col p-7 gap-7
-        bg-[#1F2630] m-1
+        bg-[#1F2630] m-5
         w-96 h-96 rounded-3xl
         select-none
       `}
