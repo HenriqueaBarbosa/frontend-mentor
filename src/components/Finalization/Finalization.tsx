@@ -15,10 +15,8 @@ export default function Finalization(props: Props) {
           <Thanks />
         </div>
 
-        <div  className="flex justify-center">
-            <Result>
-              You selected {props.grade} out of 5
-            </Result>
+        <div className="flex justify-center">
+          <Result>You selected {props.grade} out of 5</Result>
         </div>
 
         <div>

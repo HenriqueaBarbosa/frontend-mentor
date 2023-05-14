@@ -10,7 +10,7 @@ export default function Result(props: Props) {
             flex justify-center items-center
         `}
     >
-    {props.children}      
+      {props.children}
     </div>
   );
 }
