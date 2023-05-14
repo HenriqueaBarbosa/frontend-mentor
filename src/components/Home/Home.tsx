@@ -82,7 +82,7 @@ export default function Home(props: ExchangeCard) {
         </div>
 
         <div className="flex w-full">
-          <Button onClick={handleSubmit} content="SUBMIT" />
+          <Button onClick={() => handleSubmit()} content="SUBMIT" />
         </div>
       </Card>
     </div>
