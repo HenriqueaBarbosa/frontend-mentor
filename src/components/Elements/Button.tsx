@@ -10,7 +10,7 @@ export default function Button(props: Props) {
         bg-[#F26716] text-[#FFF]
         hover:bg-[#FFF] hover:text-[#F26716]
         font-bold tracking-widest
-        w-full h-10 rounded-3xl
+        w-full h-10 rounded-3xl cursor-pointer select-none
       `} onClick={() => props.onClick()}>
         {props.content}
       </button>

@@ -14,7 +14,7 @@ export default function Sucess() {
   const [card, setCard] = useState(<Home handle={handleCard} />);
 
   return (
-    <div className="w-24rem h-24rem sm:w-auto sm:h-auto md:w-32rem md:h-32rem lg:w-40rem lg:h-40rem xl:w-48rem xl:h-48rem">
+    <div className="w-[90%] md:w-3/4">
       {card}
     </div>
   );

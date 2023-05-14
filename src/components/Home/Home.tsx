@@ -50,26 +50,31 @@ export default function Home(props: ExchangeCard) {
 
         <div className="flex justify-between">
           <Circle
+            noStar
             selected={selectedGrade === "1"}
             classification={() => handleGrade("1")}
             content="1"
           />
           <Circle
+            noStar
             selected={selectedGrade === "2"}
             classification={() => handleGrade("2")}
             content="2"
           />
           <Circle
+            noStar
             selected={selectedGrade === "3"}
             classification={() => handleGrade("3")}
             content="3"
           />
           <Circle
+            noStar
             selected={selectedGrade === "4"}
             classification={() => handleGrade("4")}
             content="4"
           />
           <Circle
+            noStar
             selected={selectedGrade === "5"}
             classification={() => handleGrade("5")}
             content="5"
