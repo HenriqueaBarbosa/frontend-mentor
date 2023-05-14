@@ -33,6 +33,7 @@ export default function Home(props: ExchangeCard) {
       <Card>
         <div className=" flex">
           <Circle
+            star
             selected={selectedGrade === "Star"}
             classification={() => console.log("Star")}
           >
