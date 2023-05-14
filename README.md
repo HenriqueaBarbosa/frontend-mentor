@@ -8,7 +8,6 @@ Esta é uma solução para o [Interactive rating component challenge on Frontend
 
 - [Visão geral](#visão-geral)
   - [O desafio](#o-desafio)
-  - [Screenshots](#screenshots)
   - [Links](#links)
 - [Meus processos](#meus-processos)
   - [Feito com](#feito-com)
@@ -27,11 +26,11 @@ Os usuários devem ser capazes de:
 
 ### Screenshots
 
-![Efeitos](./screenshots/active-states.jpg)
-![Desktop Rating](./screenshots/desktop-rating.jpg)
-![Desktop Thanks](./screenshots/desktop-thank-you.jpg)
-![Mobile Rating](./screenshots/mobile-rating.jpg)
-![Mobile Thanks](./screenshots/mobile-thank-you.jpg)
+![Efeitos](./active-states.jpg)
+![Desktop Rating](./desktop-rating.jpg)
+![Desktop Thanks](./desktop-thank-you.jpg)
+![Mobile Rating](./mobile-rating.jpg)
+![Mobile Thanks](./mobile-thank-you.jpg)
 
 ### Links
 
