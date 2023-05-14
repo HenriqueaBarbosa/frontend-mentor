@@ -27,11 +27,11 @@ Os usuários devem ser capazes de:
 
 ### Screenshots
 
-![](./screenshots/active-states.jpg)
-![](./screenshots/desktop-rating.jpg)
-![](./screenshots/desktop-thank-you.jpg)
-![](./screenshots/mobile-rating.jpg)
-![](./screenshots/mobile-thank-you.jpg)
+![Efeitos](./screenshots/active-states.jpg)
+![Desktop Rating](./screenshots/desktop-rating.jpg)
+![Desktop Thanks](./screenshots/desktop-thank-you.jpg)
+![Mobile Rating](./screenshots/mobile-rating.jpg)
+![Mobile Thanks](./screenshots/mobile-thank-you.jpg)
 
 ### Links
 
