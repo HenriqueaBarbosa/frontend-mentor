@@ -1,6 +1,7 @@
-export default function Result() {
-  
-
+interface Props {
+  children: any;
+}
+export default function Result(props: Props) {
   return (
     <div
       className={`  
@@ -9,7 +10,7 @@ export default function Result() {
             flex justify-center items-center
         `}
     >
-      You selected 4 out of 5
+    {props.children}      
     </div>
   );
 }

@@ -1,9 +1,9 @@
-import Home from "@/components/Home/Home";
+import App from "../components/Home/Sucess";
 
 export default function Index() {
   return (
     <div>
-      <Home />
+      <App />
     </div>
   )
 }
