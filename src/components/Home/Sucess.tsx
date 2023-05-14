@@ -13,5 +13,9 @@ export default function Sucess() {
 
   const [card, setCard] = useState(<Home handle={handleCard} />);
 
-  return <div>{card}</div>;
+  return (
+    <div className="w-24rem h-24rem sm:w-auto sm:h-auto md:w-32rem md:h-32rem lg:w-40rem lg:h-40rem xl:w-48rem xl:h-48rem">
+      {card}
+    </div>
+  );
 }
